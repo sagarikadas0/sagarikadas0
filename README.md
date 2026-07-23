@@ -1,4 +1,4 @@
-![logo] (https://github.com/sagarikadas0/sagarikadas0/commit/b0ab027dc9e36dd930169565766ad3705b00aab8)
+![logo] (https://github.com/sagarikadas0/sagarikadas0/blob/main/download%20(1).gif)
 ## Hi im sagarika das
 **A passionate alml Engineer || DevOps Engineer || sagarika das Admin from India**
 
